@@ -1,9 +1,5 @@
 # 🏭 Manufacturing Production & Operational Intelligence Platform
 
-[![Power BI](https://shields.io)](https://microsoft.com)
-[![Analytics](https://shields.io)]()
-[![Maintenance Cost](https://shields.io)]()
-
 An enterprise-grade operational analytics framework engineered in Power BI Desktop to monitor manufacturing throughput, analyze quality control defects, and streamline predictive machine maintenance workflows.
 
 ---
@@ -11,7 +7,7 @@ An enterprise-grade operational analytics framework engineered in Power BI Deskt
 ## 📸 Operational Control Center Interface
 Below is the deployment architecture of the production efficiency matrix:
 
-![Manufacturing Dashboard UI](./image_bA-B6M.png)
+![Manufacturing Dashboard UI](Screenshot 2026-09-04 173411.png)
 
 ---
 
