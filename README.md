@@ -1,9 +1,5 @@
 # 🏭 Manufacturing Production & Operational Intelligence Platform
 
-[![Power BI](https://shields.io)](https://microsoft.com)
-[![Analytics](https://shields.io)]()
-[![Maintenance Cost](https://shields.io)]()
-
 An enterprise-grade operational analytics framework engineered in Power BI Desktop to monitor manufacturing throughput, analyze quality control defects, and streamline predictive machine maintenance workflows.
 
 ---
